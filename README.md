@@ -1,2 +1,3 @@
 # CALCULATOR
 ITS A SIMPLE CALCULATOR
+<img src="/pic.png">
